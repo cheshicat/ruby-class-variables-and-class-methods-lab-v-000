@@ -26,8 +26,4 @@ class Song
     @@artists.uniq
   end
 
-  def self.genre_count
-    genre_count = {}
-  end
-
 end
